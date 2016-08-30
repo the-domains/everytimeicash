@@ -1,0 +1,14 @@
+layout_spectrum: 0.22038919618353248
+typography_spectrum: 0.529380438150838
+color:
+  brandStrength: 0.6588603889103979
+  lightness: 0.37796818907372653
+  saturation: 0.803766931174323
+  rhythmicContrast: 0.837536480743438
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: EveryTimeICash
