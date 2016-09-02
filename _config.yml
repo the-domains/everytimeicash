@@ -1,3 +1,4 @@
+layout_spectrum: 0.22038919618353248
 typography_spectrum: 0.529380438150838
 color:
   brandStrength: 0.6588603889103979
@@ -10,7 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.22038919618353248
 name: EveryTimeICash
-title: Every Time I Cash
-description: Teaching you how to say "Pay Me!"
